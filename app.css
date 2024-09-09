@@ -6,10 +6,12 @@
 
 body {
     background-color: #f0f0f0;
+    font-family: "Reddit Sans Condensed", sans-serif;
+    font-weight: 300;
 }
 
 .bg-nav {
-    background-color: #2c3e50; 
+    background-color: #2c3e50;
 }
 
 .nav-link:hover {
@@ -23,7 +25,7 @@ body {
 
 p {
     color: #242424;
-    font-family: "Roboto", sans-serif;
+    font-family: "Reddit Sans Condensed", sans-serif;
     font-weight: 300;
 }
 
@@ -32,13 +34,8 @@ p {
     border-top-left-radius: 25px;
     border-bottom-right-radius: 25px;
     line-height: 30px;
-}
-
-.foto-profilo {
-    width: 70px;
-    aspect-ratio: 1;
-    object-fit: cover;
-    border-radius: 100%;
+    font-family: "Reddit Sans Condensed", sans-serif;
+    font-weight: 300;
 }
 
 .write {
@@ -47,6 +44,8 @@ p {
 
 .home-page-article {
     line-height: 30px;
+    font-family: "Reddit Sans Condensed", sans-serif;
+    font-weight: 300;
 }
 
 .img-article {
@@ -86,7 +85,7 @@ h1, h3, .card-title {
 }
 
 .card-height {
-    height: 650px;
+    height: 630px;
 }
 
 .size-badge {

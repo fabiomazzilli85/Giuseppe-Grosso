@@ -6,6 +6,8 @@
 
 body {
     background-color: #f0f0f0;
+    font-family: "Reddit Sans Condensed", sans-serif;
+    font-weight: 300;
 }
 
 
@@ -24,12 +26,14 @@ h1, h2, h3, h5, .author {
 
 p {
     color: #242424;
-    font-family: "Roboto", sans-serif;
+    font-family: "Reddit Sans Condensed", sans-serif;
     font-weight: 300;
 }
 
 .line-post {
     line-height: 30px;
+    font-family: "Reddit Sans Condensed", sans-serif;
+    font-weight: 300;
 }
 
 .img-responsive {
@@ -53,10 +57,6 @@ p {
 
 .bg-card-article {
     background-color: #ecf2f5;
-}
-
-.text-increase {
-    font-size: 20px;
 }
 
 .bg-read {
